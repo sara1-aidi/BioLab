@@ -3,8 +3,6 @@
 ## 🩺 Overview
 BioLab Research is a comprehensive web platform that uses deep learning to automatically diagnose lung conditions from chest X-ray images. The system classifies images into three categories: **Pneumonia**, **Lung Opacity**, and **Normal**, providing fast, consistent diagnostic support for healthcare professionals.
 
-## 🚀 Live Demo
-[View Live Platform](https://biolab-research.vercel.app) *(Replace with your actual link)*
 
 ## ✨ Key Features
 - **AI Diagnosis**: Custom CNN model with 95% validation accuracy for chest X-ray classification
@@ -34,4 +32,19 @@ BioLab Research is a comprehensive web platform that uses deep learning to autom
 - **Training**: 60 epochs with early stopping
 - **Metrics**: Confusion matrix shows strong class separation
 
-## 📁 Project Structure
+
+## 🚀 Installation & Setup
+
+### Prerequisites
+- Python 3.9+
+- Node.js 18+
+- TensorFlow 2.13+
+- Supabase account
+
+### Backend Setup
+```bash
+cd backend
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn main:app --reload
