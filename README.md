@@ -87,3 +87,6 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload
 >>>>>>> 1a498d5e1c886d2581775c9742cd3b080e4d3e3a
+
+
+![Dashboard View](https://i.ibb.co/TqPKF1yn/Capture-d-cran-2025-05-07-212032.png)
