@@ -1,0 +1,38 @@
+/* Custom Calendar Styles */
+.custom-calendar {
+    border: 1px solid var(--pastel-blue-medium);
+    border-radius: 8px;
+    padding: 8px;
+    background-color: white;
+  }
+  
+  .custom-calendar .react-calendar__navigation {
+    background-color: var(--pastel-blue-light);
+    border-radius: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .custom-calendar .react-calendar__navigation button {
+    color: var(--text-blue-dark);
+    font-weight: 600;
+  }
+  
+  .custom-calendar .react-calendar__tile {
+    color: var(--text-blue-dark);
+    border-radius: 4px;
+    padding: 8px;
+  }
+  
+  .custom-calendar .react-calendar__tile--active {
+    background-color: var(--pastel-blue-dark);
+    color: white;
+  }
+  
+  .custom-calendar .react-calendar__tile--now {
+    background-color: var(--pastel-blue-medium);
+    color: var(--text-blue-dark);
+  }
+  
+  .custom-calendar .react-calendar__tile:enabled:hover {
+    background-color: var(--pastel-blue-light);
+  }
