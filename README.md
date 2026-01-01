@@ -15,7 +15,21 @@ BioLab Research is a comprehensive web platform that uses deep learning to autom
 
 ## 📸 Project Screenshots
 
-| ![Dashboard](https://i.ibb.co/TqPKF1yn/Capture-d-cran-2025-05-07-212032.png) | ![Results](https://i.ibb.co/QFw33cpn/Capture-d-cran-2025-05-07-212444.png) | ![Training](https://i.ibb.co/HpGQxKnf/Capture-d-cran-2025-05-07-212626.png) |
+
+
+| Dashboard & Login | Diagnostic Results | Admin Management |
+|-------------------|--------------------|------------------|
+| ![Dashboard](https://i.ibb.co/8gFS5Jgd/Capture-d-cran-2025-05-07-211925.png) | ![Results](https://i.ibb.co/QFw33cpn/Capture-d-cran-2025-05-07-212444.png) | ![Admin](https://i.ibb.co/ytd9vFX/Capture-d-cran-2025-05-07-212507.png) |
+| *Main dashboard with login interface* | *Patient diagnostic results page* | *Admin user management panel* |
+
+| Patient Portal | Appointment Booking | Model Training |
+|----------------|---------------------|----------------|
+| ![Portal](https://i.ibb.co/TqPKF1yn/Capture-d-cran-2025-05-07-212032.png) | ![Booking](https://i.ibb.co/x8FY6jd6/Capture-d-cran-2025-05-07-212548.png) | ![Training](https://i.ibb.co/HpGQxKnf/Capture-d-cran-2025-05-07-212626.png) |
+| *Patient portal for scan uploads* | *Appointment scheduling system* | *Model training performance graphs* |
+
+*Authentication Interface:*
+![Login Page](https://i.ibb.co/nNZ27WwP/Capture-d-cran-2025-05-07-212423.png)
+*Secure user authentication page*
 
 ## 🛠️ Technology Stack
 **Frontend:** React 19, Next.js 15, Tailwind CSS  
