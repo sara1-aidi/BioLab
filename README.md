@@ -15,8 +15,6 @@ BioLab Research is a comprehensive web platform that uses deep learning to autom
 
 ## 📸 Project Screenshots
 
-| Dashboard View | Patient Results | Model Training |
-|----------------|-----------------|----------------|
 | ![Dashboard](https://i.ibb.co/TqPKF1yn/Capture-d-cran-2025-05-07-212032.png) | ![Results](https://i.ibb.co/QFw33cpn/Capture-d-cran-2025-05-07-212444.png) | ![Training](https://i.ibb.co/HpGQxKnf/Capture-d-cran-2025-05-07-212626.png) |
 
 ## 🛠️ Technology Stack
